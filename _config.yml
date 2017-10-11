@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sandeep Kumar / Personal Website"
+title                    : "Sandeep Kumar"
 title_separator          : "-"
 name                     : &name "Sandeep Kumar"
 description              : &description "PhD Candidate at Indian Institute of Technology Delhi, New Delhi, India"
