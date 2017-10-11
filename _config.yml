@@ -78,37 +78,37 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Sandeep Kumar"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "PhD Student in Computer Sceince"
+  location         : "New Delhi, India"
+  employer         : "IIT Delhi"
+  googlescholar    : "https://scholar.google.co.in/citations?user=2Ge6tWwAAAAJ&hl=en"
+  email            : "sandeep007734@gmail.com"
   uri              :
-  bitbucket        :
+  bitbucket        : "sandeep007734"
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "sandeep007734"
   foursquare       :
-  github           : "academicpages"
-  google_plus      :
+  github           : "sandeep007734"
+  google_plus      : "sandeep007734"
   keybase          :
-  instagram        :
+  instagram        : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "sandeep007734"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "sandeep007734"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "sandeep007734"
   wikipedia        :
 
 
