@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Sandeep Kumar
------
-
 I am currently pursuing my PhD in Computer Science from [Indian Institute of Technology, New Delhi](http://www.iitd.ac.in/).
 
 Before this I worked as a Project Associate at [Indian Institute of Science](http://www.iisc.ernet.in/), Bangalore, India with [Professor K Gopinath](http://drona.csa.iisc.ernet.in/~gopi/).
