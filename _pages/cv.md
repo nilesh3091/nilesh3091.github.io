@@ -11,30 +11,44 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.Tech. in Computer Science, Guru Gobind Singh Indraprastha University, 2011
+* M.E. in Computer Science, Indian Institute of Science, 2013
+* Ph.D in Computer Science, Indian Institute of Technology, ---
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015-2017: Research Assistant
+  * Indian Institute of Science
+  * Duties included: Hadoop Automatic Tuning, Human Gait Analysis, DVFS survey
+  * Supervisor: Professor [K. Gopinath](http://drona.csa.iisc.ernet.in/~gopi/)
+  * Location: Bangalore, India
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2013-2014: Software Developer II
+  * Dell Research and Development
+  * Duties included: Tool for Remote configuration and Management of Servers
+  * Location: Bangalore, India
   
+Projects
+======
+
+Hadoop Automatic Tuning
+----
+
+Human Gait Analysis
+----
+
+Modeling performance of a Distributed File system
+-----
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C/C++ , Java, Python 
+* Android
+  * Frontend Development
+  * Backend Design
+  * Communication via REST API
+* Operating System
 
 Publications
 ======
@@ -54,6 +68,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Interests
 ======
-* Currently signed in to 43 different slack teams
+* Reading
+* Cycling
+* Games
+* Random Projects
