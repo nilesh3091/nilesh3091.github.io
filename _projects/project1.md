@@ -9,3 +9,7 @@ location: "New Delhi, India"
 ---
 
 Hello World
+
+Cricket Jyotishi
+=======
+An Android app to make predictions on the cricket games.
