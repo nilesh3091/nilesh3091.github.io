@@ -11,4 +11,4 @@ citation: 'S. Kumar, S. Padakandla, C. L, P. Parihar, G. K and S. Bhatnagar, &qu
 
 <a href='http://ieeexplore.ieee.org/document/8030611/'>Download paper here</a>
 
-The paper is about automatic Hadoop tuning using noisy gradient approach.
+The paper is about automatic Hadoop tuning using noisy gradient approach, where we explore the possibility of using **SPSA** to automatically configure the Hadoop and get the best possible outcome for a particular workload.

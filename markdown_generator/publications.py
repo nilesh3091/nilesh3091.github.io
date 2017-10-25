@@ -24,7 +24,7 @@
 # In[2]:
 
 import pandas as pd
-
+from pathlib import Path
 
 # ## Import TSV
 # 
@@ -108,8 +108,11 @@ for row, item in publications.iterrows():
     # md += "\nRecommended citation: " + item.citation
     
     md_filename = os.path.basename(md_filename)
-       
-    with open("../_publications/" + md_filename, 'w') as f:
-        f.write(md)
+    my_file = Path("../_publications/" + md_filename)
+    if not my_file.is_file():
+        with open("../_publications/" + md_filename, 'w') as f:
+            f.write(md)
+    else:
+        print("File exists. Skipping writing.")
 
 
