@@ -66,6 +66,7 @@ for row, item in projects.iterrows():
     print(item.proj_date)
     print(item.title)
     print(item.type)
+    print(item.area)
     print(item.excerpt)
     print(item.url_slug)
     print(item.project_url)
@@ -87,6 +88,8 @@ for row, item in projects.iterrows():
     
     md += "\ndate: " + str(item.proj_date) 
     
+    md += "\nArea: '" + str(item.area) + "'"
+
     md += "\ntype: '" + str(item.type) + "'"
     
     if len(str(item.project_url)) > 5:
