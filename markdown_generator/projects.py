@@ -88,7 +88,7 @@ for row, item in projects.iterrows():
     
     md += "\ndate: " + str(item.proj_date) 
     
-    md += "\nArea: '" + str(item.area) + "'"
+    md += "\narea: '" + str(item.area) + "'"
 
     md += "\ntype: '" + str(item.type) + "'"
     
