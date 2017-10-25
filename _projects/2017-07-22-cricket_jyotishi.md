@@ -9,6 +9,9 @@ type: 'Personal'
 projecturl: 'https://play.google.com/store/apps/details?id=com.sportsjyotishi.cricketjyotishi'
 ---
 
+![Login Screen](/images/cj_login.webp "Login Screen")
+
+
 <a href='https://play.google.com/store/apps/details?id=com.sportsjyotishi.cricketjyotishi'>More Details here</a>
 
 An Android App to predict matches, compete among friends
