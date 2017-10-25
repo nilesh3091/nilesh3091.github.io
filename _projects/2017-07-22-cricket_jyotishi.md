@@ -9,7 +9,7 @@ type: 'Personal'
 projecturl: 'https://play.google.com/store/apps/details?id=com.sportsjyotishi.cricketjyotishi'
 ---
 
-![Login Screen](/images/cj_login.webp "Login Screen")
+![Login Screen](/images/cj_login.webp "Login Screen"){:height="50%" width="50%"}
 
 
 <a href='https://play.google.com/store/apps/details?id=com.sportsjyotishi.cricketjyotishi'>More Details here</a>
