@@ -87,7 +87,7 @@ for row, item in projects.iterrows():
     
     md += "\ndate: " + str(item.proj_date) 
     
-    md += "\ntype: '" + html_escape(item.type) + "'"
+    md += "\ntype: '" + str(item.type) + "'"
     
     if len(str(item.project_url)) > 5:
         md += "\nprojecturl: '" + item.project_url + "'"
