@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sandeep Kumar"
+title                    : "Nilesh Kumar"
 title_separator          : "-"
-name                     : &name "Sandeep Kumar"
-description              : &description "PhD Candidate at Indian Institute of Technology Delhi, New Delhi, India"
+name                     : &name "Nilesh Kumar"
+description              : &description "Intern,Kasturba hospital,Manipal"
 url                      : https://nilesh3091.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sandeep007734/sandeep007734.github.io"
+repository               : "nilesh3091/nilesh3091.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,37 +78,37 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sandeep Kumar"
+  name             : "Nilesh Kumar"
   avatar           : "profile.jpg"
-  bio              : "PhD Student in Computer Science at IIT Delhi."
-  location         : "New Delhi, India"
+  bio              : "Intern at Kasturba Hospital"
+  location         : "Manipal, Karnataka, India"
   employer         : 
-  googlescholar    : "https://scholar.google.co.in/citations?user=2Ge6tWwAAAAJ&hl=en"
-  email            : "sandeep007734@gmail.com"
+  googlescholar    : 
+  email            : "nilesh3091@gmail.com"
   uri              :
-  bitbucket        : "sandeep007734"
+  bitbucket        : 
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "sandeep007734"
+  facebook         : "nilesh3091"
   foursquare       :
-  github           : "sandeep007734"
-  google_plus      : "sandeep007734"
+  github           : "nilesh3091"
+  google_plus      : "nilesh3091"
   keybase          :
-  instagram        : 
+  instagram        : "nilesh3091" 
   lastfm           :
-  linkedin         : "sandeep007734"
+  linkedin         : "nilesh3091"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "sandeep007734"
+  twitter          : "nilesh3091"
   vine             :
   weibo            :
   xing             :
-  youtube          : "sandeep007734"
+  youtube          : "nilesh3091"
   wikipedia        :
 
 
